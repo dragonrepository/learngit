@@ -24,3 +24,7 @@ git log -pretty=oneline
 git reset --hard HEAD^
 
 git reflog
+
+git reset --hard HEAD^
+
+git reset --hard 3628164
