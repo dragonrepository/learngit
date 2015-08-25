@@ -28,3 +28,7 @@ git reflog
 git reset --hard HEAD^
 
 git reset --hard 3628164
+
+git push -u origin master 推送所有内容
+
+git push origin master 推送最新修改
