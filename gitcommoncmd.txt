@@ -1,0 +1,26 @@
+
+git config --global user.name "Your Name"
+git config --global user.email "email@example.com"
+
+mkdir learngit
+cd learngit
+pwd
+/Users/michael/learngit
+
+git init
+
+git add readme.txt
+
+git commit -m "wrote a readme file"
+
+git diff
+
+git status
+
+git log
+
+git log -pretty=oneline
+
+git reset --hard HEAD^
+
+git reflog
